@@ -141,7 +141,7 @@ section:last-child {
 }
 
 .sectionContent li {
-	margin-bottom: 3px;
+	margin-bottom: 36px; /* see if this changes */
 }
 
 .subDetails {
