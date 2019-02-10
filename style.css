@@ -138,6 +138,9 @@ section:last-child {
 .sectionContent ul {
 	font-size: 1em;
 	font-style: italic;
+}
+
+.sectionContent li {
 	margin-bottom: 3px;
 }
 
